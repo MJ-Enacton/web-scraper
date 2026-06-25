@@ -7,10 +7,10 @@ const scrapeOnePage = async (page) => {
   const books = await page.evaluate(() => {
     return Array.from(document.querySelectorAll(".product_pod")).map((book) => ({
       title: book.querySelector("h3 > a").title,
-      single_poroduct_link: book.querySelector("h3 > a").href,
-      image: book.querySelector("div > a > img").src,
       price: book.querySelector(".price_color").textContent,
       star_rating: book.querySelector("p").className.split(" ")[1],
+      image: book.querySelector("div > a > img").src,
+      single_poroduct_link: book.querySelector("h3 > a").href,
     }));
   });
 
@@ -23,10 +23,10 @@ const writeToCSV = async (data) => {
       path : "./data/books.csv",
       header : [
         {id: "title", title: "Title"},
-        {id: "single_poroduct_link", title: "Link"},
-        {id: "image", title: "Image"},
         {id: "price", title: "Price"},
-        {id: "star_rating", title: "Rating"}
+        {id: "star_rating", title: "Rating"},
+        {id: "image", title: "Image"},
+        {id: "single_poroduct_link", title: "Link"},
       ]
     }
   );
