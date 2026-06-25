@@ -59,8 +59,9 @@ const main = async () => {
       nextButton.click(),
     ]);
   }
-  await fs.writeFile("books.json", JSON.stringify(allBooks, null, 2));
+  await fs.writeFile("./data/books.json", JSON.stringify(allBooks, null, 2));
   await writeToCSV(allBooks);
+  console.log("Data written successfully")
   await browser.close();
 };
 
