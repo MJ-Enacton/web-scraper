@@ -1,0 +1,502 @@
+[
+  {
+    "repo_name": "react/react",
+    "repo_desc": "The library for web and native user interfaces.",
+    "repo_stars": "246k"
+  },
+  {
+    "repo_name": "typescript-cheatsheets/react",
+    "repo_desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "repo_stars": "47.1k"
+  },
+  {
+    "repo_name": "duxianwei520/react",
+    "repo_desc": "React+vite+redux+ant design+axios+less全家桶后台管理框架",
+    "repo_stars": "5.3k"
+  },
+  {
+    "repo_name": "primer/react",
+    "repo_desc": "An implementation of GitHub's Primer Design System using React",
+    "repo_stars": "3.9k"
+  },
+  {
+    "repo_name": "ysymyth/ReAct",
+    "repo_desc": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+    "repo_stars": "4k"
+  },
+  {
+    "repo_name": "discountry/react",
+    "repo_desc": "React docs in Chinese | React 中文文档翻译",
+    "repo_stars": "1.4k"
+  },
+  {
+    "repo_name": "react-redux-antd-es6/react",
+    "repo_desc": "基于react的企业后台管理开发框架",
+    "repo_stars": "1.3k"
+  },
+  {
+    "repo_name": "HackYourFuture/React",
+    "repo_desc": "This repository contains all the material for the HackYourFuture module \"React.js: Building dynamic UIs with modern JavaScript\"",
+    "repo_stars": "465"
+  },
+  {
+    "repo_name": "Cathy0807/react",
+    "repo_desc": "京东首页构建",
+    "repo_stars": "910"
+  },
+  {
+    "repo_name": "vercel/next.js",
+    "repo_desc": "The React Framework",
+    "repo_stars": "140k"
+  },
+  {
+    "repo_name": "xzlaptt/React",
+    "repo_desc": "React学习",
+    "repo_stars": "614"
+  },
+  {
+    "repo_name": "untitleduico/react",
+    "repo_desc": "Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, pa…",
+    "repo_stars": "1.8k"
+  },
+  {
+    "repo_name": "formio/react",
+    "repo_desc": "JSON powered forms for React.js",
+    "repo_stars": "370"
+  },
+  {
+    "repo_name": "react/react-native",
+    "repo_desc": "A framework for building native applications using React",
+    "repo_stars": "126k"
+  },
+  {
+    "repo_name": "ReactiveCocoa/ReactiveCocoa",
+    "repo_desc": "Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.",
+    "repo_stars": "19.8k"
+  },
+  {
+    "repo_name": "react/create-react-app",
+    "repo_desc": "Set up a modern web app by running one command.",
+    "repo_stars": "103k"
+  },
+  {
+    "repo_name": "phosphor-icons/react",
+    "repo_desc": "A flexible icon family for React",
+    "repo_stars": "1.7k"
+  },
+  {
+    "repo_name": "ui-router/react",
+    "repo_desc": "🔼 UI-Router for React",
+    "repo_stars": "541"
+  },
+  {
+    "repo_name": "remix-run/react-router",
+    "repo_desc": "Declarative routing for React",
+    "repo_stars": "56.5k"
+  },
+  {
+    "repo_name": "enaqx/awesome-react",
+    "repo_desc": "A collection of awesome things regarding React ecosystem",
+    "repo_stars": "73.7k"
+  },
+  {
+    "repo_name": "azat-co/react",
+    "repo_desc": "Examples for the React Quickly book.",
+    "repo_stars": "266"
+  },
+  {
+    "repo_name": "omergulcicek/react",
+    "repo_desc": "🌀 React dokümantasyonunun Türkçe çevirisi",
+    "repo_stars": "541"
+  },
+  {
+    "repo_name": "sudheerj/reactjs-interview-questions",
+    "repo_desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "repo_stars": "44.7k"
+  },
+  {
+    "repo_name": "streamich/react-use",
+    "repo_desc": "React Hooks — 👍",
+    "repo_stars": "44k"
+  },
+  {
+    "repo_name": "react-boilerplate/react-boilerplate",
+    "repo_desc": "🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+    "repo_stars": "29.5k"
+  },
+  {
+    "repo_name": "werein/react",
+    "repo_desc": "Extremely simple boilerplate, easiest you can find, for React application including all the necessary tools: Flow | React 16 | redux | ba…",
+    "repo_stars": "290"
+  },
+  {
+    "repo_name": "reactjs/react.dev",
+    "repo_desc": "The React documentation website",
+    "repo_stars": "11.8k"
+  },
+  {
+    "repo_name": "marmelab/react-admin",
+    "repo_desc": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+    "repo_stars": "26.8k"
+  },
+  {
+    "repo_name": "ruanyf/react-demos",
+    "repo_desc": "a collection of simple demos of React.js",
+    "repo_stars": "16.5k"
+  },
+  {
+    "repo_name": "reactiveui/ReactiveUI",
+    "repo_desc": "An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactiv…",
+    "repo_stars": "8.5k"
+  },
+  {
+    "repo_name": "amruthpillai/reactive-resume",
+    "repo_desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. …",
+    "repo_stars": "39k"
+  },
+  {
+    "repo_name": "react-navigation/react-navigation",
+    "repo_desc": "Routing and navigation for React Native and Web apps",
+    "repo_stars": "24.5k"
+  },
+  {
+    "repo_name": "dvdzkwsk/react-redux-starter-kit",
+    "repo_desc": "Get started with React, Redux, and React-Router.",
+    "repo_stars": "10.2k"
+  },
+  {
+    "repo_name": "JedWatson/react-select",
+    "repo_desc": "The Select Component for React.js",
+    "repo_stars": "28k"
+  },
+  {
+    "repo_name": "kdchang/reactjs101",
+    "repo_desc": "從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 React.js 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/G…",
+    "repo_stars": "4.3k"
+  },
+  {
+    "repo_name": "zf-huangxiao/react",
+    "repo_desc": "demo of React.js",
+    "repo_stars": "82"
+  },
+  {
+    "repo_name": "alan2207/bulletproof-react",
+    "repo_desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "repo_stars": "35.4k"
+  },
+  {
+    "repo_name": "Internshala-Online-Trainings/React",
+    "repo_desc": null,
+    "repo_stars": "164"
+  },
+  {
+    "repo_name": "P5-wrapper/react",
+    "repo_desc": "A wrapper component that allows you to utilise P5 sketches within React apps.",
+    "repo_stars": "564"
+  },
+  {
+    "repo_name": "playcanvas/react",
+    "repo_desc": "Build 3D apps with React",
+    "repo_stars": "508"
+  },
+  {
+    "repo_name": "react-bootstrap/react-bootstrap",
+    "repo_desc": "Bootstrap components built with React",
+    "repo_stars": "22.6k"
+  },
+  {
+    "repo_name": "reduxjs/react-redux",
+    "repo_desc": "Official React bindings for Redux",
+    "repo_stars": "23.5k"
+  },
+  {
+    "repo_name": "bvaughn/react-virtualized",
+    "repo_desc": "React components for efficiently rendering large lists and tabular data",
+    "repo_stars": "27.1k"
+  },
+  {
+    "repo_name": "reactos/reactos",
+    "repo_desc": "A free Windows-compatible Operating System",
+    "repo_stars": "17.7k"
+  },
+  {
+    "repo_name": "brillout/awesome-react-components",
+    "repo_desc": "Curated List of React Components & Libraries.",
+    "repo_stars": "47.8k"
+  },
+  {
+    "repo_name": "react-native-elements/react-native-elements",
+    "repo_desc": "Cross-Platform React Native UI Toolkit",
+    "repo_stars": "25.9k"
+  },
+  {
+    "repo_name": "Asabeneh/30-Days-Of-React",
+    "repo_desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/…",
+    "repo_stars": "27.4k"
+  },
+  {
+    "repo_name": "jondot/awesome-react-native",
+    "repo_desc": "Awesome React Native components, news, tools, and learning material!",
+    "repo_stars": "35.7k"
+  },
+  {
+    "repo_name": "software-mansion/react-native-svg",
+    "repo_desc": "SVG library for React Native, React Native Web, and plain React web projects.",
+    "repo_stars": "8k"
+  },
+  {
+    "repo_name": "academind/react-complete-guide-code",
+    "repo_desc": "Code snapshots and materials for our \"React - The Complete Guide\" course (https://acad.link/reactjs)",
+    "repo_stars": "6.4k"
+  },
+  {
+    "repo_name": "react-hook-form/react-hook-form",
+    "repo_desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "repo_stars": "44.8k"
+  },
+  {
+    "repo_name": "akiran/react-slick",
+    "repo_desc": "React carousel component",
+    "repo_stars": "11.9k"
+  },
+  {
+    "repo_name": "reactioncommerce/reaction",
+    "repo_desc": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, Grap…",
+    "repo_stars": "12.4k"
+  },
+  {
+    "repo_name": "kriasoft/react-starter-kit",
+    "repo_desc": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building…",
+    "repo_stars": "23.6k"
+  },
+  {
+    "repo_name": "tsparticles/react",
+    "repo_desc": "React tsParticles official component",
+    "repo_stars": "587"
+  },
+  {
+    "repo_name": "DavidHDev/react-bits",
+    "repo_desc": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+    "repo_stars": "41.8k"
+  },
+  {
+    "repo_name": "react-native-maps/react-native-maps",
+    "repo_desc": "React Native Mapview component for iOS + Android",
+    "repo_stars": "16k"
+  },
+  {
+    "repo_name": "electron-react-boilerplate/electron-react-boilerplate",
+    "repo_desc": "A Foundation for Scalable Cross-Platform Apps",
+    "repo_stars": "24.2k"
+  },
+  {
+    "repo_name": "leilihuang/React",
+    "repo_desc": "写写React组件",
+    "repo_stars": "153"
+  },
+  {
+    "repo_name": "RocketChat/Rocket.Chat.ReactNative",
+    "repo_desc": "The Secure CommsOS™ for mission-critical operations",
+    "repo_stars": "2.4k"
+  },
+  {
+    "repo_name": "john-smilga/react-projects",
+    "repo_desc": null,
+    "repo_stars": "5.2k"
+  },
+  {
+    "repo_name": "ant-design/ant-design",
+    "repo_desc": "An enterprise-class UI design language and React UI library",
+    "repo_stars": "98.5k"
+  },
+  {
+    "repo_name": "reactnativecn/react-native-guide",
+    "repo_desc": "React Native指南汇集了各类react-native学习资源、开源App和组件",
+    "repo_stars": "17.8k"
+  },
+  {
+    "repo_name": "atlassian/react-beautiful-dnd",
+    "repo_desc": "Beautiful and accessible drag and drop for lists with React",
+    "repo_stars": "34k"
+  },
+  {
+    "repo_name": "react-dnd/react-dnd",
+    "repo_desc": "Drag and Drop for React",
+    "repo_stars": "21.6k"
+  },
+  {
+    "repo_name": "Semantic-Org/Semantic-UI-React",
+    "repo_desc": "The official Semantic-UI-React integration",
+    "repo_stars": "13.2k"
+  },
+  {
+    "repo_name": "coryhouse/react-slingshot",
+    "repo_desc": "React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in",
+    "repo_stars": "9.6k"
+  },
+  {
+    "repo_name": "StephenGrider/ReactNativeReduxCasts",
+    "repo_desc": "Companion Repo for The Complete React Native and Redux Course",
+    "repo_stars": "2.6k"
+  },
+  {
+    "repo_name": "react-grid-layout/react-grid-layout",
+    "repo_desc": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+    "repo_stars": "22.3k"
+  },
+  {
+    "repo_name": "wesbos/React-For-Beginners-Starter-Files",
+    "repo_desc": "Starter files for learning React.js with React for Beginners",
+    "repo_stars": "2.9k"
+  },
+  {
+    "repo_name": "epicweb-dev/react-fundamentals",
+    "repo_desc": "Material for my React Fundamentals Workshop",
+    "repo_stars": "5.3k"
+  },
+  {
+    "repo_name": "markerikson/react-redux-links",
+    "repo_desc": "Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+    "repo_stars": "22.5k"
+  },
+  {
+    "repo_name": "chvin/react-tetris",
+    "repo_desc": "Use React, Redux, Immutable to code Tetris. 🎮",
+    "repo_stars": "8.7k"
+  },
+  {
+    "repo_name": "reactstrap/reactstrap",
+    "repo_desc": "Simple React Bootstrap 5 components",
+    "repo_stars": "10.5k"
+  },
+  {
+    "repo_name": "yisainan/react",
+    "repo_desc": "⚛ 比较好的react项目,值得借鉴与学习",
+    "repo_stars": "211"
+  },
+  {
+    "repo_name": "Hacker0x01/react-datepicker",
+    "repo_desc": "A simple and reusable datepicker component for React",
+    "repo_stars": "8.4k"
+  },
+  {
+    "repo_name": "react-native-camera/react-native-camera",
+    "repo_desc": "A Camera component for React Native. Also supports barcode scanning!",
+    "repo_stars": "9.6k"
+  },
+  {
+    "repo_name": "react/react-native-website",
+    "repo_desc": "The React Native website and docs",
+    "repo_stars": "2.1k"
+  },
+  {
+    "repo_name": "benoitvallon/react-native-nw-react-calculator",
+    "repo_desc": "Mobile, desktop and website Apps with the same code",
+    "repo_stars": "5.2k"
+  },
+  {
+    "repo_name": "remotion-dev/remotion",
+    "repo_desc": "🎥 Make videos programmatically with React",
+    "repo_stars": "51.2k"
+  },
+  {
+    "repo_name": "ibm-developer-skills-network/uqwxd-react_labs",
+    "repo_desc": "react_todolist",
+    "repo_stars": "38"
+  },
+  {
+    "repo_name": "TheWidlarzGroup/react-native-video",
+    "repo_desc": "A <Video /> component for react-native",
+    "repo_stars": "7.7k"
+  },
+  {
+    "repo_name": "chenglou/react-motion",
+    "repo_desc": "A spring that solves your animation problems.",
+    "repo_stars": "21.9k"
+  },
+  {
+    "repo_name": "adam-golab/react-developer-roadmap",
+    "repo_desc": "Roadmap to becoming a React developer",
+    "repo_stars": "18.9k"
+  },
+  {
+    "repo_name": "diegomura/react-pdf",
+    "repo_desc": "📄 Create PDF files using React",
+    "repo_stars": "16.7k"
+  },
+  {
+    "repo_name": "necolas/react-native-web",
+    "repo_desc": "Cross-platform React UI packages",
+    "repo_stars": "22.1k"
+  },
+  {
+    "repo_name": "yezihaohao/react-admin",
+    "repo_desc": "✨ react-admin system solution : react 后台管理系统解决方案",
+    "repo_stars": "6.7k"
+  },
+  {
+    "repo_name": "FaridSafi/react-native-gifted-chat",
+    "repo_desc": "💬 The most complete chat UI for React Native",
+    "repo_stars": "14.4k"
+  },
+  {
+    "repo_name": "react-grid-layout/react-draggable",
+    "repo_desc": "React draggable component",
+    "repo_stars": "9.3k"
+  },
+  {
+    "repo_name": "jsx-eslint/eslint-plugin-react",
+    "repo_desc": "React-specific linting rules for ESLint",
+    "repo_stars": "9.3k"
+  },
+  {
+    "repo_name": "pmndrs/react-three-fiber",
+    "repo_desc": "🇨🇭 A React renderer for Three.js",
+    "repo_stars": "31.2k"
+  },
+  {
+    "repo_name": "react-native-webview/react-native-webview",
+    "repo_desc": "React Native Cross-Platform WebView",
+    "repo_stars": "7.2k"
+  },
+  {
+    "repo_name": "rjsf-team/react-jsonschema-form",
+    "repo_desc": "A React component for building Web forms from JSON Schema.",
+    "repo_stars": "15.8k"
+  },
+  {
+    "repo_name": "ibm-developer-skills-network/uqwxd-react_labs",
+    "repo_desc": "react_todolist",
+    "repo_stars": "38"
+  },
+  {
+    "repo_name": "TheWidlarzGroup/react-native-video",
+    "repo_desc": "A <Video /> component for react-native",
+    "repo_stars": "7.7k"
+  },
+  {
+    "repo_name": "chenglou/react-motion",
+    "repo_desc": "A spring that solves your animation problems.",
+    "repo_stars": "21.9k"
+  },
+  {
+    "repo_name": "adam-golab/react-developer-roadmap",
+    "repo_desc": "Roadmap to becoming a React developer",
+    "repo_stars": "18.9k"
+  },
+  {
+    "repo_name": "diegomura/react-pdf",
+    "repo_desc": "📄 Create PDF files using React",
+    "repo_stars": "16.7k"
+  },
+  {
+    "repo_name": "necolas/react-native-web",
+    "repo_desc": "Cross-platform React UI packages",
+    "repo_stars": "22.1k"
+  },
+  {
+    "repo_name": "yezihaohao/react-admin",
+    "repo_desc": "✨ react-admin system solution : react 后台管理系统解决方案",
+    "repo_stars": "6.7k"
+  }
+]
